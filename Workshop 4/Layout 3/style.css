@@ -21,6 +21,15 @@ div{
     float:left;
 }
 
+.yellowbox{
+    background-color:yellow;
+    height:360px;
+    width:430px;
+    float:left;
+    margin-top:20px;
+    margin-left:20px;
+}
+
 .footer{
     background-color:lime;
     height:200px;
