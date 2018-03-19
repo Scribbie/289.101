@@ -1,5 +1,5 @@
 div{
-    outline:1px solid red;
+    outline:1px solid black;
 }
 
 .container{
@@ -18,5 +18,12 @@ div{
     background-color:red;
     height:400px;
     width:306px;
+    float:left;
+}
+
+.footer{
+    background-color:lime;
+    height:200px;
+    width:920px;
     float:left;
 }
