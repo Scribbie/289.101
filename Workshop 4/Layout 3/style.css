@@ -14,6 +14,13 @@ div{
     width:920px;
 }
 
+.redbox{
+    background-color:red;
+    width:920px;
+    height:400px;
+    float:left;
+}
+
 .footer{
     background-color:lime;
     height:200px;
